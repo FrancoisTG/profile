@@ -1,0 +1,67 @@
+
+h1 {font-size: 30px;}
+h2 {font-size: 18px;}
+h3 {font-size: 15px;}
+p {font-family: 'open sans'; font-size: 15px;}
+
+body{ font-family: 'Montserrat', sans-serif;
+      color: 474242;
+      background: #EBEBEB;
+      line-height: 1.2em;}
+
+td {padding: 10px;}
+
+.img-tab {width: 100px;
+          box-shadow: 3px 3px #EBEBEB;}
+
+#id-pic {width: 30%; border-radius: 50% ;border: 4px;
+    border-style: solid;
+    border-color: #EBEBEB;}
+
+div{background: white;}
+
+a{font-family: 'open sans';
+  font-weight: bold;
+  color: 474242;
+  text-decoration: none}
+
+a:hover{font-weight: normal; color: #D23333;
+        text-decoration: underline}
+
+.container {
+  width: 750px;   /* Set width */
+  margin: 0 auto; /* Automatically set left/right margins */
+  }
+
+.card {
+    text-align: center;
+    padding: 10px;
+    border: 7px;
+    border-style: solid;
+    border-color: #EBEBEB;
+    margin: 0;
+    }
+
+.list-inline > li {
+  font-size: 15px;
+  text-align: center;
+  display: inline-block;
+  padding: 0px 40px;
+  }
+
+.list-inline {
+  text-align: center;
+  padding-left: 0px;
+  }
+
+.btn{
+    margin: auto;
+    padding: 5px;
+    text-align: center;
+    width: 125px;
+    border-radius: 7px;
+    background: #D23333;
+}
+.btn >a {
+  color: white;
+  }
